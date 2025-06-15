@@ -48,6 +48,9 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "typeinfo": "cpp",
-        "cstring": "cpp"
+        "cstring": "cpp",
+        "cstdarg": "cpp",
+        "map": "cpp",
+        "cinttypes": "cpp"
     }
 }
